@@ -9,6 +9,9 @@ body {
     text-align: center;
     color: slategray;
   }
+  img {
+    text-align: center;
+  }
 
  /* Add a black background color to the top navigation */
 .topnav {
