@@ -2,9 +2,11 @@ body {
     background-color: whitesmoke;
   }
   h1 {
+    text-align: center;
     color: darkslategray;
   }
   p {
+    text-align: center;
     color: slategray;
   }
 
