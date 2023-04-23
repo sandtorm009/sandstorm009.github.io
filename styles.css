@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
   height:100vh;
-  background: url('sandstorm009.github.io/images/producthero.jpg');
+  background: url('producthero.jpg');
   background-size:cover;
   position:relative;
 }
