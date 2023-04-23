@@ -5,6 +5,10 @@ body {
     text-align: center;
     color: darkslategray;
   }
+  h4 {
+    text-align: center;
+    color: slategray;
+  }
   p {
     text-align: center;
     color: slategray;
