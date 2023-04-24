@@ -5,7 +5,7 @@
 
 /* hero background image */
 .bgimage {
-  background-image: url('images/heroImage.jpg');
+  background-image: url('https://github.com/sandtorm009/sandstorm009.github.io/blob/main/images/heroImage.jpeg');
   background-size: cover;
   position: relative;
 }
