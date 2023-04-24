@@ -5,14 +5,9 @@
 
 /* hero background image */
 .bgimage {
-  background: url('/producthero.jpg');
+  background: url('/images/heroImage.jpeg');
   background-size:cover;
   position:relative;
-}
-
-
-body {
-background-image: url("producthero.jpeg");
 }
 
 /* text css above hero image*/
