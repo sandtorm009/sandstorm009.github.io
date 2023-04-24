@@ -4,11 +4,13 @@
 }
 
 /* hero background image */
-.bgimage {
-  background-image: url('https://github.com/sandtorm009/sandstorm009.github.io/blob/main/images/heroImage.jpeg');
-  background-size: cover;
-  position: relative;
+<style>
+.banner {
+  /* The image used */
+  background-image: url('images/heroImage.jpeg');
 }
+</style>
+
 
 /* text css above hero image*/
 .hero_title {
@@ -59,6 +61,22 @@
   border: 1px solid #008000;
 }
 
+/* social media icons styling */
+.social-icons {
+  font-size: 36px;
+  cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+  color: #008000;
+}
+.fab {
+  color: #000000;
+}
+/* footer styling */
+#footer {
+  background-color: #808080;
+  text-align: center;
+}
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
