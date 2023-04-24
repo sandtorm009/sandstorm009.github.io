@@ -5,9 +5,9 @@
 
 /* hero background image */
 .bgimage {
-  background: url('./images/heroImage.jpeg');
-  background-size:cover;
-  position:relative;
+  background: url('images/heroImage.jpeg');
+  background-size: cover;
+  position: relative;
 }
 
 /* text css above hero image*/
